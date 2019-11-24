@@ -24,3 +24,7 @@
 * 10.Program selesai.
 
 ![praktikum 4](https://user-images.githubusercontent.com/57026867/69488241-3c240480-0e99-11ea-8edb-95bad920ef6e.jpg)
+
+# * Berikut alur Flowchart dari program tersebut .. 
+
+![foto flowchart praktikum 4](https://user-images.githubusercontent.com/57026867/69489383-089da600-0eaa-11ea-849e-3008c66bc0f0.png)
